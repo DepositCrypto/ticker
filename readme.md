@@ -1,13 +1,3 @@
-echo "# ticker" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DepositCrypto/ticker.git
-git push -u origin main
-
-# 
-#  
 
 # Инструкции по запуску приложения (для обычного пользователя):
 # 1. Скачайте приложение Ticker.apk на андроид по ссылке https://github.com/DepositCrypto/ticker/blob/main/Ticker.apk
